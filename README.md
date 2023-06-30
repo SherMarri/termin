@@ -9,3 +9,4 @@ Automatically determines if a visa appointment is available on a given German co
 - You must also hide behind a proxy to avoid getting banned, so use a proxy service (like proxyrack).
 - Create a .env file with actual secrets/credentials required for running the script.
 - Also, please remember that the websites change frequently, so this HTML parsing may not work, adjust accordingly.
+- You can either run it locally on your computer running periodically or host a scheduled execution on cloud, your choice.
